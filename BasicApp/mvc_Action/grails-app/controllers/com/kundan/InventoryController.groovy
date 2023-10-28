@@ -17,4 +17,9 @@ class InventoryController {
 
         [name:name,place:place];
     }
+
+    def list(){
+        def allProducts = Product.list();
+        [allProducts:allProducts];
+    }
 }
