@@ -9,3 +9,7 @@
 
 ## where need to put the server port code 
     YourApplication->grails-app->conf->application.yml
+
+## Ref Link : 
+
+https://stackoverflow.com/questions/10955899/how-to-change-grails-localhost-port
