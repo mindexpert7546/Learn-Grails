@@ -29,4 +29,9 @@ model - grails create-domain-class <package-name.DomainClassName>
 ![Screenshot 2023-10-28 134352](https://github.com/mindexpert7546/Learn-Grails/assets/89348788/d35452b9-ac04-48cd-83e2-800d725c51fd)
 ![Screenshot 2023-10-28 134625](https://github.com/mindexpert7546/Learn-Grails/assets/89348788/913bb876-ce60-461b-8b79-45c87894ab25)
 
+## Controller response by database 
 
+
+![Screenshot 2023-10-28 142936](https://github.com/mindexpert7546/Learn-Grails/assets/89348788/81d6b6a0-c71e-4299-8de0-42e467632601)
+![Screenshot 2023-10-28 142951](https://github.com/mindexpert7546/Learn-Grails/assets/89348788/bd83e14c-5b88-4b0c-9149-e3047c51c0a1)
+![Screenshot 2023-10-28 143203](https://github.com/mindexpert7546/Learn-Grails/assets/89348788/efc72139-7b87-489c-9912-581f9675b3c1)
