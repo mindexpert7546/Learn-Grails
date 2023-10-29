@@ -1,0 +1,5 @@
+![Screenshot 2023-10-29 182702](https://github.com/mindexpert7546/Learn-Grails/assets/89348788/80265add-82da-4f6a-b103-f3d5b3e4f9ce)
+![Screenshot 2023-10-29 182652](https://github.com/mindexpert7546/Learn-Grails/assets/89348788/ce69e0d7-0fdc-4932-94fc-583519a1b4b1)
+![Screenshot 2023-10-29 182434](https://github.com/mindexpert7546/Learn-Grails/assets/89348788/7637bd65-2e99-47d0-a367-aba1c51369e2)
+![Screenshot 2023-10-29 182345](https://github.com/mindexpert7546/Learn-Grails/assets/89348788/c8e3b881-5f2c-4620-91c5-84269212a975)
+![Screenshot 2023-10-29 181832](https://github.com/mindexpert7546/Learn-Grails/assets/89348788/064e97b4-a3b2-4e7a-bf70-dbdaf6664eb8)
