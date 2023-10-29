@@ -8,7 +8,7 @@ class Product {
     Float price;
 
     //to describe the relationship 
-    static hasMany = [orderItem:OorderItem];
+    static hasMany = [orderItem:OorderItem]
 
     static constraints = {
     }
