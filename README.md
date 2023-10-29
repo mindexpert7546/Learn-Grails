@@ -1,6 +1,9 @@
 
 # Learning Grails
 
+# Document link for the 3.2.6 version : 
+https://grails.github.io/legacy-grails-doc/3.2.6/
+
 Welcome to the "Learning Grails" tutorial, where you'll discover the fundamentals of Grails, a high-productivity web application framework based on the Groovy language.
 
 ## Table of Contents
