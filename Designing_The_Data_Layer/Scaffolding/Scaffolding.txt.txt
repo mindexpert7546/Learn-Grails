@@ -1,0 +1,1 @@
+https://grails.github.io/grails2-doc/2.5.x/guide/scaffolding.html
