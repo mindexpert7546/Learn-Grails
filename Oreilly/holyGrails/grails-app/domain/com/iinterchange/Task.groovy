@@ -1,5 +1,5 @@
 package com.iinterchange
-
+// @ToString(includes = ['name','priority','completed']) 
 class Task {
 
     String name
@@ -7,6 +7,7 @@ class Task {
     Date startDate = new Date()
     Date endDate = new Date()
     boolean completed
+    static belongsTo = [quest:Quest]
 
     int getDuration(){
         endDate-startDate+1

@@ -60,6 +60,11 @@ dependencies {
     implementation "org.grails.plugins:events"
     implementation "org.grails.plugins:gsp"
     profile "org.grails.profiles:web"
+
+    // Grails console plugin dependiency added 
+    runtimeOnly 'org.grails.plugins:grails-console:2.1.1'
+
+
     runtimeOnly "org.glassfish.web:el-impl:2.2.1-b05"
     runtimeOnly "com.h2database:h2"
     runtimeOnly "org.apache.tomcat:tomcat-jdbc"
