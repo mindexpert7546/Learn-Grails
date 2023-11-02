@@ -1,4 +1,6 @@
 ### Database console : https://docs.grails.org/6.0.0/guide/single.html#databaseConsole
+
+### How to log SQL statements in Grails  https://stackoverflow.com/questions/2568507/how-to-log-sql-statements-in-grails
 ![Screenshot 2023-11-01 221956](https://github.com/mindexpert7546/Learn-Grails/assets/89348788/0b967874-2e71-4f73-9ba7-d7ec2486debf)
 
 
