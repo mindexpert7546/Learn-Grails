@@ -14,10 +14,12 @@ class UrlMappings {
         "500"(view: '/error')
         "404"(view: '/notFound')
 
-        '/productss'(resources: 'product') {
-         collection {
-            '/search'(controller: 'product', action: 'search')
-    }
-   }
+//         '/productss'(resources: 'product') {
+//          collection {
+//             '/search'(controller: 'product', action: 'search')
+//     }
+//    }
+
+"/products"(resources:"product")
     }
 }
