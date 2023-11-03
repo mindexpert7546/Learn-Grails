@@ -1,0 +1,11 @@
+import rest.demo.Product
+
+model {
+	Product product
+}
+
+json{
+	id Product.id 
+	name Product.name 
+	price Product.price
+}

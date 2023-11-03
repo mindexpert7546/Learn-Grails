@@ -1,7 +1,6 @@
 package rest.demo
 
 class Product {
-    
     String name
     Double price
     static constraints = {
